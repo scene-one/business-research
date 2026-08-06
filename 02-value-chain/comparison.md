@@ -1,7 +1,7 @@
 # 가치사슬 비교: 국내 음식 배달앱 vs OTT 스트리밍
 
-> 상세: `value-chain-1-food-delivery.md`, `value-chain-2-ott-streaming.md`
-> 방법론: `value-chain-methodology.md` / 시장 구조 분석: `comparison-delivery-vs-ott.md`
+> 상세: `analysis-1-food-delivery.md`, `analysis-2-ott-streaming.md`
+> 방법론: `methodology.md` / 시장 구조 분석: `../01-five-forces/comparison.md`
 
 ## 활동별 비교표
 

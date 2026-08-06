@@ -15,18 +15,18 @@
 ### 포터의 5가지 힘
 | 파일 | 내용 |
 |---|---|
-| [porter-five-forces-methodology.md](porter-five-forces-methodology.md) | 5가지 힘 분석 방법론 정리 |
-| [analysis-1-food-delivery.md](analysis-1-food-delivery.md) | 국내 음식 배달앱 시장 분석 |
-| [analysis-2-ott-streaming.md](analysis-2-ott-streaming.md) | OTT 스트리밍 시장 분석 |
-| [comparison-delivery-vs-ott.md](comparison-delivery-vs-ott.md) | 두 시장 비교 분석 |
+| [methodology.md](01-five-forces/methodology.md) | 5가지 힘 분석 방법론 정리 |
+| [analysis-1-food-delivery.md](01-five-forces/analysis-1-food-delivery.md) | 국내 음식 배달앱 시장 분석 |
+| [analysis-2-ott-streaming.md](01-five-forces/analysis-2-ott-streaming.md) | OTT 스트리밍 시장 분석 |
+| [comparison.md](01-five-forces/comparison.md) | 두 시장 비교 분석 |
 
 ### 가치사슬
 | 파일 | 내용 |
 |---|---|
-| [value-chain-methodology.md](value-chain-methodology.md) | 가치사슬 분석 방법론 정리 (주요활동·지원활동) |
-| [value-chain-1-food-delivery.md](value-chain-1-food-delivery.md) | 배달앱 가치사슬 분석 |
-| [value-chain-2-ott-streaming.md](value-chain-2-ott-streaming.md) | OTT 가치사슬 분석 |
-| [value-chain-comparison.md](value-chain-comparison.md) | 두 시장 가치사슬 비교 |
+| [methodology.md](02-value-chain/methodology.md) | 가치사슬 분석 방법론 정리 (주요활동·지원활동) |
+| [analysis-1-food-delivery.md](02-value-chain/analysis-1-food-delivery.md) | 배달앱 가치사슬 분석 |
+| [analysis-2-ott-streaming.md](02-value-chain/analysis-2-ott-streaming.md) | OTT 가치사슬 분석 |
+| [comparison.md](02-value-chain/comparison.md) | 두 시장 가치사슬 비교 |
 
 ## 사례 분석 요약
 
