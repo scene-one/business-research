@@ -1,6 +1,6 @@
-# business-reserch
+# business-research
 
-비즈니스 리서치 프로젝트.
+산업 및 비즈니스 리서치 학습 자료.
 
 ## 개요
 
