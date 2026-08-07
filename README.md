@@ -37,21 +37,13 @@
 | [analysis-1-food-delivery.md](03-ksf/analysis-1-food-delivery.md) | 배달앱 신규 진입자 Top 5 KSF (실증 기업 사례 포함) |
 | [analysis-2-ott-streaming.md](03-ksf/analysis-2-ott-streaming.md) | OTT 신규 진입자 Top 5 KSF (실증 기업 사례 포함) |
 
-### 시장 규모 (TAM-SAM-SOM) & 세그먼트 맵
+### 시장 규모 & 구독 관리 서비스 마켓 세그먼트 (04-market-sizing)
 | 파일 | 내용 |
 |---|---|
 | [methodology.md](04-market-sizing/methodology.md) | TAM-SAM-SOM·세그먼트 맵 방법론 및 7단계 리서치 워크플로우 |
 | [analysis-2-ott-streaming.md](04-market-sizing/analysis-2-ott-streaming.md) | 글로벌 오리지널 OTT의 TAM-SAM-SOM(시청시간·MAU 기준)과 이용자규모×시청몰입도 세그먼트 맵(Mermaid) |
-
-### 문제 정의 · 기회 탐색
-| 파일 | 내용 |
-|---|---|
-| [ott-cost-and-discovery.md](05-problem-definition/ott-cost-and-discovery.md) | 한국 OTT 이용자의 '비용 누수·탐색 피로'에서 출발해 두 번의 방향 전환(B2C 애그리게이터 → B2B 데이터 → 공동구독 시장)을 거친 탐색 여정 기록 (Pivot Log 포함) |
-
-### 공동구독 시장 (신규 진입자 관점)
-| 파일 | 내용 |
-|---|---|
-| [analysis-korea-cosubscription.md](06-cosubscription-market/analysis-korea-cosubscription.md) | 한국 OTT 공동구독 중개 시장을 기존 1위(피클플러스) 관점에서 분석 — 신규 진입자의 위협(진입장벽 ↔ 틈) + TAM-SAM-SOM(이용자 기준) |
+| [problem-definition/ott-cost-and-discovery.md](04-market-sizing/problem-definition/ott-cost-and-discovery.md) | 한국 OTT 이용자의 '비용 누수·탐색 피로'에서 출발해 두 번의 방향 전환(B2C 애그리게이터 → B2B 데이터 → 공동구독 시장)을 거친 탐색 여정 기록 (Pivot Log 포함) |
+| [cosubscription-market/analysis-korea-cosubscription.md](04-market-sizing/cosubscription-market/analysis-korea-cosubscription.md) | 한국 OTT 공동구독 중개 시장을 기존 1위(피클플러스) 관점에서 분석 — 신규 진입자 위협 + TAM-SAM-SOM + 세그먼트 맵 + 합법 공동구독 솔루션(7단계) |
 
 ## 사례 분석 요약
 
