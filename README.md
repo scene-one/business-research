@@ -49,6 +49,8 @@
 | 파일 | 내용 |
 |---|---|
 | [methodology-opportunity-score.md](07-opportunity-score/methodology-opportunity-score.md) | 기회점수(OS)의 중요도 이중 반영 왜곡을 교정한 조정형 기회점수(AOS = Importance × (1 − Satisfaction/5)) 방법론 — 사분면 시각화·평가 대상 정의·적용 워크플로우 |
+| [pain-points-by-persona.md](07-opportunity-score/pain-points-by-persona.md) | 스펙트럼 12종 페르소나별 주요 Pain 3선 + Pain별 Goal 추론 + 해설 (AOS 점수화 입력, 36 Pain-Goal) |
+| [aos-scoring.md](07-opportunity-score/aos-scoring.md) | 36 Pain-Goal에 Importance·Satisfaction 부여→AOS 산출, 중앙값 기준 사분면 매트릭스·우선순위 서열·MVP 함의 |
 
 ## 사례 분석 요약
 
