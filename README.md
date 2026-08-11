@@ -49,8 +49,10 @@
 | 파일 | 내용 |
 |---|---|
 | [methodology-opportunity-score.md](07-opportunity-score/methodology-opportunity-score.md) | 기회점수(OS)의 중요도 이중 반영 왜곡을 교정한 조정형 기회점수(AOS = Importance × (1 − Satisfaction/5)) 방법론 — 사분면 시각화·평가 대상 정의·적용 워크플로우 |
+| [methodology-dos.md](07-opportunity-score/methodology-dos.md) | AOS를 시장 가중으로 확장한 발견된 기회점수(DOS = (Importance − Satisfaction) × Market Relevance) 방법론 — 음수(과잉공급) 판별·미충족×시장 매트릭스·AOS와의 관계 |
 | [pain-points-by-persona.md](07-opportunity-score/pain-points-by-persona.md) | 스펙트럼 12종 페르소나별 주요 Pain 3선 + Pain별 Goal 추론 + 해설 (AOS 점수화 입력, 36 Pain-Goal) |
 | [aos-scoring.md](07-opportunity-score/aos-scoring.md) | 36 Pain-Goal에 Importance·Satisfaction 부여→AOS 산출, 중앙값 기준 사분면 매트릭스·우선순위 서열·MVP 함의 |
+| [dos-scoring.md](07-opportunity-score/dos-scoring.md) | 36 Pain-Goal에 시장 파급력(Market Relevance) 부여→DOS 산출. SAM(장기 기회 크기)·SOM(단기 beachhead 도달성) 두 모수 버전 순위표·비교 해설 |
 
 ## 사례 분석 요약
 
