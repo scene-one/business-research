@@ -88,13 +88,13 @@ X축에 시장 파급력(Market Relevance), Y축에 미충족 갭(I−S)을 놓�
 
 ```mermaid
 quadrantChart
-    title DOS 매트릭스 — 미충족 갭(I-S) x 시장 파급력(Market Relevance)
+    title DOS 매트릭스 · 미충족 갭 vs 시장 파급력
     x-axis 낮은 시장 파급력 --> 높은 시장 파급력
-    y-axis 과잉공급(음수 갭) --> 높은 미충족(양수 갭)
-    quadrant-1 진짜 기회(우선 진입)
-    quadrant-2 니치(통증O 시장 작음)
-    quadrant-3 무시(저통증 저시장)
-    quadrant-4 과잉공급(레드오션)
+    y-axis 과잉공급 음수 갭 --> 높은 미충족 양수 갭
+    quadrant-1 진짜 기회 우선 진입
+    quadrant-2 니치 통증O 시장 작음
+    quadrant-3 무시 저통증 저시장
+    quadrant-4 과잉공급 레드오션
     자동화 한계 DOS2.4: [0.8, 0.875]
     AI 학습 피로 DOS0.6: [0.6, 0.625]
     신뢰 부족 DOS-1.4: [0.7, 0.25]
