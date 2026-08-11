@@ -53,6 +53,7 @@
 | [pain-points-by-persona.md](07-opportunity-score/pain-points-by-persona.md) | 스펙트럼 12종 페르소나별 주요 Pain 3선 + Pain별 Goal 추론 + 해설 (AOS 점수화 입력, 36 Pain-Goal) |
 | [aos-scoring.md](07-opportunity-score/aos-scoring.md) | 36 Pain-Goal에 Importance·Satisfaction 부여→AOS 산출, 중앙값 기준 사분면 매트릭스·우선순위 서열·MVP 함의 |
 | [dos-scoring.md](07-opportunity-score/dos-scoring.md) | 36 Pain-Goal에 시장 파급력(Market Relevance) 부여→DOS 산출. SAM(장기 기회 크기)·SOM(단기 beachhead 도달성) 두 모수 버전 순위표·비교 해설 |
+| [aos-dos-matrix.md](07-opportunity-score/aos-dos-matrix.md) | AOS(X)×DOS(Y) 혼합 매트릭스(Mermaid). 중앙값 경계 4사분면(🔥최우선·💰시장주도·🎯니치·⬜후순위) 배치·범례·해설 |
 
 ## 사례 분석 요약
 
