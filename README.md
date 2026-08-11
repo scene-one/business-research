@@ -55,6 +55,11 @@
 | [dos-scoring.md](07-opportunity-score/dos-scoring.md) | 36 Pain-Goal에 시장 파급력(Market Relevance) 부여→DOS 산출. SAM(장기 기회 크기)·SOM(단기 beachhead 도달성) 두 모수 버전 순위표·비교 해설 |
 | [aos-dos-matrix.md](07-opportunity-score/aos-dos-matrix.md) | AOS(X)×DOS(Y) 혼합 매트릭스(Mermaid). 중앙값 경계 4사분면(🔥최우선·💰시장주도·🎯니치·⬜후순위) 배치·범례·해설 |
 
+### JTBD 인터뷰 (08-jtbd)
+| 파일 | 내용 |
+|---|---|
+| [methodology-jtbd-interview.md](08-jtbd/methodology-jtbd-interview.md) | JTBD 인터뷰 방법론 — 전환 사건 중심 설계, 3그룹 모집, 핵심 질문 스크립트, 4가지 전환 동인(Push·Pull·Habit·Anxiety) |
+
 ## 사례 분석 요약
 
 - **5가지 힘** — 두 시장 모두 강한 구매자 힘과 치열한 경쟁으로 구조적 매력도가 낮음. 다만 배달앱은 라이더 물류망·양면 네트워크 효과라는 물리적 해자가 있는 반면, OTT는 콘텐츠 원가(공급자 힘)와 글로벌 경쟁 탓에 더 가혹한 구조로 평가됨.
