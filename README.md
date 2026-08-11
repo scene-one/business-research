@@ -45,6 +45,11 @@
 | [problem-definition/ott-cost-and-discovery.md](04-subscription-market-segment/problem-definition/ott-cost-and-discovery.md) | 한국 OTT 이용자의 '비용 누수·탐색 피로'에서 출발해 두 번의 방향 전환(B2C 애그리게이터 → B2B 데이터 → 공동구독 시장)을 거친 탐색 여정 기록 (Pivot Log 포함) |
 | [cosubscription-market/analysis-korea-cosubscription.md](04-subscription-market-segment/cosubscription-market/analysis-korea-cosubscription.md) | 한국 OTT 공동구독 중개 시장을 기존 1위(피클플러스) 관점에서 분석 — 신규 진입자 위협 + TAM-SAM-SOM + 세그먼트 맵 + 합법 공동구독 솔루션(7단계) |
 
+### 기회점수 (07-opportunity-score)
+| 파일 | 내용 |
+|---|---|
+| [methodology-opportunity-score.md](07-opportunity-score/methodology-opportunity-score.md) | 기회점수(OS)의 중요도 이중 반영 왜곡을 교정한 조정형 기회점수(AOS = Importance × (1 − Satisfaction/5)) 방법론 — 사분면 시각화·평가 대상 정의·적용 워크플로우 |
+
 ## 사례 분석 요약
 
 - **5가지 힘** — 두 시장 모두 강한 구매자 힘과 치열한 경쟁으로 구조적 매력도가 낮음. 다만 배달앱은 라이더 물류망·양면 네트워크 효과라는 물리적 해자가 있는 반면, OTT는 콘텐츠 원가(공급자 힘)와 글로벌 경쟁 탓에 더 가혹한 구조로 평가됨.
