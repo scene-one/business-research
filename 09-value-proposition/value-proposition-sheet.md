@@ -1,9 +1,10 @@
-# 공동구독 관리 서비스 경쟁사 분석 & 기업 가치 선언 — 세이프팟
+# 고객 가치 제안서 (Value Proposition Sheet) — 세이프팟
 
-> 목적: OTT를 포함한 **공동구독 관리 서비스 영역**의 주요 기업 6곳(+한국 롱테일)을 도출·분석하고, 각 기업 활동 브리핑을 근거로 **개별 가치 선언문**을 도출한다.
-> 방법: 기업별 웹 리서치(실제 페이지 열람·교차검증) → 브리핑 표(규모·모델·전략) → 핵심 가치·활동 상세 → 가치 선언문 → 종합 분석.
+> 성격: 공동구독 관리 서비스 영역의 **경쟁사 가치 선언 분석**을 근거로, 세이프팟이 설 **가치 좌표(빈 땅)**를 도출하는 가치 제안서.
+> 목적: OTT를 포함한 **공동구독 관리 서비스 영역**의 주요 기업 6곳(+한국 롱테일)을 도출·분석하고, 각 기업 활동 브리핑을 근거로 **개별 가치 선언문**을 도출한 뒤, 종합 분석으로 세이프팟의 차별적 가치 제안을 정의한다.
+> 방법: 기업별 웹 리서치(실제 페이지 열람·교차검증) → 브리핑 표(규모·모델·전략) → 핵심 가치·활동 상세 → 가치 선언문 → 종합 분석 → 세이프팟 함의.
 > 기준: 2026년 8월. 수치는 조사기관·정의(가입자 vs MAU vs 계정)·시점에 따라 편차가 있어 **기준 연도와 출처를 병기**했고, 상충·미확인 항목은 정직하게 플래그했다.
-> 선행 분석: `analysis-korea-cosubscription.md`(TAM-SAM-SOM·세그먼트 맵) 위에 얹는 **경쟁사 심화·가치 선언** 레이어.
+> 선행 분석: `../04-subscription-market-segment/cosubscription-market/analysis-korea-cosubscription.md`(TAM-SAM-SOM·세그먼트 맵) 위에 얹는 **경쟁사 심화·가치 선언** 레이어.
 
 ---
 
@@ -176,7 +177,7 @@
 ---
 
 ## 참고
-- 선행: `analysis-korea-cosubscription.md`(TAM-SAM-SOM·세그먼트 맵·빈 땅) · `../problem-definition/ott-cost-and-discovery.md`
-- 연계: `../../08-jtbd/key-insights.md`("증명 가능성이 제1 요구" — 본 보고서 §4.2와 상호 검증) · `../../05-persona/personas-from-market-segment.md`(안전 wedge)
+- 선행: `../04-subscription-market-segment/cosubscription-market/analysis-korea-cosubscription.md`(TAM-SAM-SOM·세그먼트 맵·빈 땅) · `../04-subscription-market-segment/problem-definition/ott-cost-and-discovery.md`
+- 연계: `../08-jtbd/key-insights.md`("증명 가능성이 제1 요구" — 본 보고서 §4.2와 상호 검증) · `../05-persona/personas-from-market-segment.md`(안전 wedge)
 - 출처: 각 표·절의 검증 링크(WebFetch 실열람분). 미검증·상충분은 해당 절에 명시.
 - 후속: 우상단 빈 땅 진입 시 Spliiit 판례를 상수로 둔 **합법 상품 포트폴리오 확정** → MVP 상품 리스트.
